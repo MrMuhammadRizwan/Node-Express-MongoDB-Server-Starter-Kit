@@ -39,5 +39,4 @@
   * GET - /users
   * GET - /users/id
 
-### Beyond GET Routes
 
